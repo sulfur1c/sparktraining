@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mPackaging /home/cloudera/workspace/sparktraining/target/scala-2.10/sparktraining_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	main[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$Rating$4$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$Rating$4$.class[0m
+[0m[[0mdebug[0m] [0m	main/scala[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$User$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$User$3.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$User$4$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$User$4$.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	main/scala/SparkTraining$Rating$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/sparktraining/target/scala-2.10/classes/main/scala/SparkTraining$Rating$3.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
